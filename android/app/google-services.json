@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1057597752389",
+    "project_id": "flutter-reels-bc5a7",
+    "storage_bucket": "flutter-reels-bc5a7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057597752389:android:1fce2df0ba5607aba7cf2c",
+        "android_client_info": {
+          "package_name": "com.example.reels_assignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk6znlZOpVPwwhIUN36evZkbYTmc9Erio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
